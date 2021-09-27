@@ -18,6 +18,10 @@ Capa Web
 
 La base de datos está hecha en SQL 
 
+1. Ejecutar el script de la base de datos
+
+2. Cambiar la ruta de conexion a base de datos: Esta se encuentra en el appsettings.json del proyecto del API
+
 ![image](https://user-images.githubusercontent.com/31227628/134843323-ab497b21-772a-42cd-8608-50174f8526b0.png)
 
 3. Se establecieron 2 proyectos como inicio cuando se inicia la ejecución, estos proyectos son los siguientes:
