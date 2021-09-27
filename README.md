@@ -33,7 +33,16 @@ La conexion a la base de datos se encuentra en el proyecto: PruebaLD.DiegoM.API 
    Esto se realiza en las propiedades de la solución , adjunto ejemplo de como configurarlo.
    ![establecer proyectos de inicio](https://user-images.githubusercontent.com/31227628/134843852-1e6945d5-aac3-4874-be59-9dadd7339905.gif)
    
- 4. Ejecutar el proyecto 
+ 4. Ejecutar el proyecto
+ 
+ 
+ Capturas del sistema:
+ 
+ ![image](https://user-images.githubusercontent.com/31227628/134844659-de25639a-ce74-4c98-91bd-509eed399ff1.png)
+ ![image](https://user-images.githubusercontent.com/31227628/134844680-da144142-2934-485f-b3b2-73d2480f4981.png)
+ ![image](https://user-images.githubusercontent.com/31227628/134844735-c468de9c-0e87-4ebd-959b-b7c1eb5190fe.png)
+
+
 
  
 
