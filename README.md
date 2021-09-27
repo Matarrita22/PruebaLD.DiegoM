@@ -1,6 +1,7 @@
 # PruebaLD.DiegoM
 
-El siguiente proyecto está realizado el framework .net core y React js
+El siguiente proyecto está realizado el framework .net core (3.1) y React js 
+Realizado con visual studio 2019.
 
 
 También está realizado bajo un patrón de arquitectura en capas donde se definen 6 capas principales 
