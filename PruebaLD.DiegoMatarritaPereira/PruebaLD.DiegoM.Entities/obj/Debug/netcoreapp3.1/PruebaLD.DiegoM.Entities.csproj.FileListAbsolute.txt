@@ -1,0 +1,9 @@
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Entities\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.Entities.deps.json
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Entities\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.Entities.dll
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Entities\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.Entities.pdb
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Entities\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Entities.csprojAssemblyReference.cache
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Entities\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Entities.AssemblyInfoInputs.cache
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Entities\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Entities.AssemblyInfo.cs
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Entities\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Entities.csproj.CoreCompileInputs.cache
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Entities\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Entities.dll
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Entities\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Entities.pdb

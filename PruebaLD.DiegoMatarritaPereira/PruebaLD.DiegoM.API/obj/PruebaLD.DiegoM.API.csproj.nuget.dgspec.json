@@ -1,0 +1,348 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\PruebaLD.DiegoM.API.csproj": {}
+  },
+  "projects": {
+    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\PruebaLD.DiegoM.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\PruebaLD.DiegoM.API.csproj",
+        "projectName": "PruebaLD.DiegoM.API",
+        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\PruebaLD.DiegoM.API.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj": {
+                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj"
+              },
+              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj": {
+                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj",
+        "projectName": "PruebaLD.DiegoM.BusinessLogic",
+        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj": {
+                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj"
+              },
+              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj": {
+                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj",
+        "projectName": "PruebaLD.DiegoM.DataAccess",
+        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj": {
+                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj"
+              },
+              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj": {
+                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj",
+        "projectName": "PruebaLD.DiegoM.Entities",
+        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj",
+        "projectName": "PruebaLD.DiegoM.Utils",
+        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj",
+        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

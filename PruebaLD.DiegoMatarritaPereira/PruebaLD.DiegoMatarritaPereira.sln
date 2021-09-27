@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaLD.DiegoM.API", "PruebaLD.DiegoM.API\PruebaLD.DiegoM.API.csproj", "{1951DB5D-1A0E-40A9-9F31-537AACE43554}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaLD.DiegoM.DataAccess", "PruebaLD.DiegoM.DataAccess\PruebaLD.DiegoM.DataAccess.csproj", "{D1DB6F00-2B40-4DC1-98BF-8379449E1C0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaLD.DiegoM.BusinessLogic", "PruebaLD.DiegoM.BusinessLogic\PruebaLD.DiegoM.BusinessLogic.csproj", "{65688747-CBBD-4206-82EC-52A4E824860E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaLD.DiegoM.Entities", "PruebaLD.DiegoM.Entities\PruebaLD.DiegoM.Entities.csproj", "{358A1652-D1FA-49D8-ACA0-461481BB7C32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaLD.DiegoM.Web", "PruebaLD.DiegoM.Web\PruebaLD.DiegoM.Web.csproj", "{E1035872-4A9D-4922-A73E-4B4900503EFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaLD.DiegoM.Utils", "PruebaLD.DiegoM.Utils\PruebaLD.DiegoM.Utils.csproj", "{EB7F7331-840D-4655-B65D-AA5006ECFD40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1951DB5D-1A0E-40A9-9F31-537AACE43554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1951DB5D-1A0E-40A9-9F31-537AACE43554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1951DB5D-1A0E-40A9-9F31-537AACE43554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1951DB5D-1A0E-40A9-9F31-537AACE43554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1DB6F00-2B40-4DC1-98BF-8379449E1C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1DB6F00-2B40-4DC1-98BF-8379449E1C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1DB6F00-2B40-4DC1-98BF-8379449E1C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1DB6F00-2B40-4DC1-98BF-8379449E1C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65688747-CBBD-4206-82EC-52A4E824860E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65688747-CBBD-4206-82EC-52A4E824860E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65688747-CBBD-4206-82EC-52A4E824860E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65688747-CBBD-4206-82EC-52A4E824860E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358A1652-D1FA-49D8-ACA0-461481BB7C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358A1652-D1FA-49D8-ACA0-461481BB7C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358A1652-D1FA-49D8-ACA0-461481BB7C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358A1652-D1FA-49D8-ACA0-461481BB7C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1035872-4A9D-4922-A73E-4B4900503EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1035872-4A9D-4922-A73E-4B4900503EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1035872-4A9D-4922-A73E-4B4900503EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1035872-4A9D-4922-A73E-4B4900503EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7F7331-840D-4655-B65D-AA5006ECFD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7F7331-840D-4655-B65D-AA5006ECFD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7F7331-840D-4655-B65D-AA5006ECFD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7F7331-840D-4655-B65D-AA5006ECFD40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F06D829-3570-4BBA-B5DD-BD750B564EAB}
+	EndGlobalSection
+EndGlobal
