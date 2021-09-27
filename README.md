@@ -29,6 +29,15 @@ La base de datos está hecha en SQL
    
  4. Ejecutar el proyecto
  
+ Notas: 
+ 
+ La URL del API se encuentra en cada componente del proyecto web de la siguiente manera
+ ![image](https://user-images.githubusercontent.com/31227628/134934472-8dd123de-775e-4657-8dca-6a8183b1ef25.png)
+ Esto en caso de que se requiera cambiar 
+ Los componentes que cree en la capa web son:
+ ![image](https://user-images.githubusercontent.com/31227628/134934665-c033441e-e867-4955-8ca0-f4e73e487b75.png)
+
+ 
  
  Capturas del sistema:
  
