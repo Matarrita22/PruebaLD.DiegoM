@@ -12,3 +12,17 @@ E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.D
 E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.DataAccess.pdb
 E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.dll
 E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.pdb
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.DataAccess.deps.json
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.DataAccess.dll
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.DataAccess.pdb
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.Entities.dll
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.dll
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.Entities.pdb
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.pdb
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.DataAccess.csprojAssemblyReference.cache
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.DataAccess.AssemblyInfoInputs.cache
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.DataAccess.AssemblyInfo.cs
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.DataAccess.csproj.CoreCompileInputs.cache
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.DataAccess.csproj.CopyComplete
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.DataAccess.dll
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.DataAccess\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.DataAccess.pdb

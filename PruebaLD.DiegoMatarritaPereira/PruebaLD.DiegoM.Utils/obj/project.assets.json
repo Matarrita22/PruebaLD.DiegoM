@@ -558,11 +558,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj",
+      "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj",
       "projectName": "PruebaLD.DiegoM.Utils",
-      "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj",
+      "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj",
       "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\obj\\",
+      "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

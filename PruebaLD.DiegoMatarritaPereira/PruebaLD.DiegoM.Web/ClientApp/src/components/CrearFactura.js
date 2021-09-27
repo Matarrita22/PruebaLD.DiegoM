@@ -191,12 +191,6 @@ function CrearFactura(props) {
                 mostrarAlertaError();
             })
     }
-
-    const handleSubmitClicked = () => {
-        this.setState({
-            isDisabled: true
-        });
-    }
     // #endregion
 
     // #region TablaFactura

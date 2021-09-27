@@ -7,3 +7,12 @@ E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.U
 E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Utils\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.csproj.CoreCompileInputs.cache
 E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Utils\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.dll
 E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Utils\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.pdb
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Utils\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.deps.json
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Utils\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.dll
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Utils\bin\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.pdb
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Utils\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.csprojAssemblyReference.cache
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Utils\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.AssemblyInfoInputs.cache
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Utils\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.AssemblyInfo.cs
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Utils\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.csproj.CoreCompileInputs.cache
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Utils\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.dll
+E:\Pruebas Tecnicas\LogicalData\PruebaLD.DiegoM\PruebaLD.DiegoMatarritaPereira\PruebaLD.DiegoM.Utils\obj\Debug\netcoreapp3.1\PruebaLD.DiegoM.Utils.pdb

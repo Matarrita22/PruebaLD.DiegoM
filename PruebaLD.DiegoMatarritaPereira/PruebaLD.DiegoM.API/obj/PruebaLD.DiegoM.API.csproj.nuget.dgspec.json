@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\PruebaLD.DiegoM.API.csproj": {}
+    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\PruebaLD.DiegoM.API.csproj": {}
   },
   "projects": {
-    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\PruebaLD.DiegoM.API.csproj": {
+    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\PruebaLD.DiegoM.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\PruebaLD.DiegoM.API.csproj",
+        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\PruebaLD.DiegoM.API.csproj",
         "projectName": "PruebaLD.DiegoM.API",
-        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\PruebaLD.DiegoM.API.csproj",
+        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\PruebaLD.DiegoM.API.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\obj\\",
+        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj": {
-                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj"
+              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj": {
+                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj"
               },
-              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj": {
-                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj"
+              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj": {
+                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj": {
+    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj",
+        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj",
         "projectName": "PruebaLD.DiegoM.BusinessLogic",
-        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj",
+        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\PruebaLD.DiegoM.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\obj\\",
+        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,11 +106,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj": {
-                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj"
+              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj": {
+                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj"
               },
-              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj": {
-                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj"
+              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj": {
+                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj": {
+    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj",
+        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj",
         "projectName": "PruebaLD.DiegoM.DataAccess",
-        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj",
+        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\PruebaLD.DiegoM.DataAccess.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\obj\\",
+        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -171,11 +171,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj": {
-                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj"
+              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj": {
+                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj"
               },
-              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj": {
-                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj"
+              "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj": {
+                "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj"
               }
             }
           }
@@ -218,14 +218,14 @@
         }
       }
     },
-    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj": {
+    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj",
+        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj",
         "projectName": "PruebaLD.DiegoM.Entities",
-        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj",
+        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\PruebaLD.DiegoM.Entities.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\obj\\",
+        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -276,14 +276,14 @@
         }
       }
     },
-    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj": {
+    "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj",
+        "projectUniqueName": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj",
         "projectName": "PruebaLD.DiegoM.Utils",
-        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj",
+        "projectPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\obj\\",
+        "outputPath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

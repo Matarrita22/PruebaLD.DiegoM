@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SbIRrrM4baZWeaEGagSl/Lm9DFIJPBQaD0n/ena0VMekUCceV4pZKa4UsB78q6wjz0mw7fl1T7uVBlBRJna31w==",
+  "dgSpecHash": "imUjikBWTvl4cmwYZ6AdS/DaiIqj5rsxEP5APiGLmzmTlpUlIijgB+GjxcPk+K94fU+q9BTXvXvSGY6014jIrg==",
   "success": true,
-  "projectFilePath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj",
+  "projectFilePath": "E:\\Pruebas Tecnicas\\LogicalData\\PruebaLD.DiegoM\\PruebaLD.DiegoMatarritaPereira\\PruebaLD.DiegoM.Utils\\PruebaLD.DiegoM.Utils.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
