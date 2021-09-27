@@ -29,8 +29,8 @@ La conexion a la base de datos se encuentra en el proyecto: PruebaLD.DiegoM.API 
    PruebaLD.DiegoM.API,
    PruebaLD.DiegoM.Web
    
-   Si estos no están establecidos como proyectos de inicio, por favor seguir el siguiente ejemplo para establecerlos
-   Esto se realiza en la configuracion de la solución , adjunto ejemplo
+   Si estos no están establecidos como proyectos de inicio, por favor seguir el siguiente ejemplo para establecerlos.
+   Esto se realiza en las propiedades de la solución , adjunto ejemplo de como configurarlo.
    ![establecer proyectos de inicio](https://user-images.githubusercontent.com/31227628/134843852-1e6945d5-aac3-4874-be59-9dadd7339905.gif)
    
  4. Ejecutar el proyecto 
