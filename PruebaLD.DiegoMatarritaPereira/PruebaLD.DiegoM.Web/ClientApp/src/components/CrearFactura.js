@@ -276,7 +276,7 @@ function CrearFactura(props) {
                     <div className="col-md-3">
                         <div className="form-group">
                             <p>Acción</p>
-                            <button className="btn btn-primary btn-md" id="btnAgregar" onClick={peticionCargar}> Agregar Artículo</button>
+                            <button className="btn btn-primary btn-md" id="btnAgregar" onClick={peticionCargar}> Agregar Línea</button>
                         </div>
                     </div>
                 </div>
